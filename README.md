@@ -1,11 +1,6 @@
 # File Organizer
 
 > A Java command-line tool that automatically sorts files into categorized subfolders based on file type.
-
-![Java](https://img.shields.io/badge/Java-23-orange?logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
 ---
 
 ## Overview

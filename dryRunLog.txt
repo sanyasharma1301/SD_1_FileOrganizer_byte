@@ -1,0 +1,5 @@
+/opt/homebrew/opt/java/libexec/openjdk.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=53761 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/sanyssharma/IdeaProjects/File_Organizer/out/production/File_Organizer FileOrganizer /Users/sanyssharma/Desktop/TestFiles /Users/sanyssharma/Desktop/TestOutput --dry-run
+[DRY-RUN] alag.mp3 -> alag.mp3
+[DRY-RUN] products.csv -> products.csv
+[DRY-RUN] Untitled.pdf -> Untitled.pdf
+[DRY-RUN] Screenshot 2026-09-17 at 7.18.21 PM.png -> Screenshot 2026-09-17 at 7.18.21 PM.png

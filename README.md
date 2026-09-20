@@ -17,10 +17,7 @@ This program scans a source directory and moves files into subfolders (`Images`,
 
 ## Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| Java NIO (`java.nio.file`) | File system operations |
-| HashMap | Extension-to-category mapping |
+Built using Java NIO (`java.nio.file`) for file operations and a HashMap for extension-to-category lookups.
 
 ## Approach
 
